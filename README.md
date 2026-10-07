@@ -3,8 +3,8 @@
 ## 1. Identificação
 
 - **Aluno:** Gabriel Kamanski Oliveira
-- **Curso:** 2608
-- **Unidade Curricular:** Tecnologia e informatica para a internet 
+- **Curso:** Tecnologia e informatica para a internet
+- **Unidade Curricular:** 2608
 
 ## 2. Descrição do Projeto
 

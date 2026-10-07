@@ -3,8 +3,8 @@
 ## 1. Identificação
 
 - **Aluno:** Gabriel Kamanski Oliveira
-- **Curso:** 
-- **Unidade Curricular:** Desenvolver Serviços Web
+- **Curso:** 2608
+- **Unidade Curricular:** Tecnologia e informatica para a internet 
 
 ## 2. Descrição do Projeto
 
@@ -22,8 +22,8 @@ API REST para cadastrar, consultar, atualizar e remover missões espaciais (dado
 ## 4. Como Clonar o Projeto
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone git@github.com:kamanskigabriel/missoes-espaciais.git
+cd missoes-espaciais
 ```
 
 ## 5. Como Instalar as Dependências
@@ -134,6 +134,20 @@ Todas as respostas são JSON (exceto `204`). Erros seguem o formato `{ "erro": "
 ## 9. Evidências
 
 > Adicione aqui as capturas de tela:
->
+>![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
 > - `npm test` com todos os testes passando e a cobertura
 > - Swagger UI (`/api-docs`) exibindo todos os endpoints
+> 
